@@ -8,3 +8,6 @@ In the file - Collecting Job data using API. ipynb
 3. Scrape all image URLs from a web page
 4. Scrape data from html tables
  using Scrape www.ibm.com
+
+In the web scraping lab using web scraping.ipynb
+data scraped is the name of the programming language and average annual salary from a given url
