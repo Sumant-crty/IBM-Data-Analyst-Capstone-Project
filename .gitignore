@@ -4,3 +4,4 @@ __pycache__/
 *.xlsx
 survey_summary.json
 .venv/
+!dashboard/data/tech_counts.csv

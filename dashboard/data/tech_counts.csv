@@ -1,0 +1,295 @@
+Category,Status,Technology,Respondents
+Database,Want to work with,PostgreSQL,24005
+Database,Want to work with,SQLite,13489
+Database,Want to work with,MySQL,12269
+Database,Want to work with,MongoDB,10982
+Database,Want to work with,Redis,10847
+Database,Want to work with,Microsoft SQL Server,7905
+Database,Want to work with,Elasticsearch,6246
+Database,Want to work with,MariaDB,5947
+Database,Want to work with,Dynamodb,3503
+Database,Want to work with,Supabase,2930
+Database,Want to work with,Oracle,2636
+Database,Want to work with,BigQuery,2554
+Database,Want to work with,Firebase Realtime Database,2536
+Database,Want to work with,Cassandra,2399
+Database,Want to work with,Cloud Firestore,2119
+Database,Want to work with,Snowflake,1784
+Database,Want to work with,Cosmos DB,1764
+Database,Want to work with,Neo4J,1570
+Database,Want to work with,DuckDB,1468
+Database,Want to work with,Clickhouse,1328
+Database,Want to work with,Databricks SQL,1218
+Database,Want to work with,Cockroachdb,1157
+Database,Want to work with,InfluxDB,1090
+Database,Want to work with,H2,1040
+Database,Want to work with,Microsoft Access,662
+Database,Want to work with,Couch DB,620
+Database,Want to work with,Solr,558
+Database,Want to work with,Firebird,450
+Database,Want to work with,IBM DB2,406
+Database,Want to work with,Datomic,404
+Database,Want to work with,Couchbase,385
+Database,Want to work with,EventStoreDB,372
+Database,Want to work with,Presto,319
+Database,Want to work with,TiDB,255
+Database,Want to work with,RavenDB,222
+Database,Worked with,PostgreSQL,25536
+Database,Worked with,MySQL,21099
+Database,Worked with,SQLite,17365
+Database,Worked with,Microsoft SQL Server,13275
+Database,Worked with,MongoDB,13007
+Database,Worked with,Redis,10463
+Database,Worked with,MariaDB,8991
+Database,Worked with,Elasticsearch,6533
+Database,Worked with,Oracle,5273
+Database,Worked with,Dynamodb,4138
+Database,Worked with,Firebase Realtime Database,3018
+Database,Worked with,Cloud Firestore,2842
+Database,Worked with,BigQuery,2531
+Database,Worked with,Microsoft Access,2193
+Database,Worked with,Supabase,2078
+Database,Worked with,H2,2006
+Database,Worked with,Cosmos DB,1746
+Database,Worked with,Snowflake,1364
+Database,Worked with,InfluxDB,1338
+Database,Worked with,Cassandra,1268
+Database,Worked with,Databricks SQL,1003
+Database,Worked with,Neo4J,998
+Database,Worked with,IBM DB2,914
+Database,Worked with,Clickhouse,890
+Database,Worked with,Solr,766
+Database,Worked with,DuckDB,710
+Database,Worked with,Firebird,563
+Database,Worked with,Couch DB,534
+Database,Worked with,Cockroachdb,507
+Database,Worked with,Couchbase,353
+Database,Worked with,Presto,323
+Database,Worked with,Datomic,184
+Database,Worked with,EventStoreDB,162
+Database,Worked with,RavenDB,159
+Database,Worked with,TiDB,127
+Language,Want to work with,Python,25047
+Language,Want to work with,JavaScript,23774
+Language,Want to work with,SQL,22400
+Language,Want to work with,HTML/CSS,20721
+Language,Want to work with,TypeScript,20239
+Language,Want to work with,Rust,17232
+Language,Want to work with,Go,13837
+Language,Want to work with,Bash/Shell (all shells),13744
+Language,Want to work with,C#,12921
+Language,Want to work with,C++,10873
+Language,Want to work with,Java,10668
+Language,Want to work with,C,8275
+Language,Want to work with,Kotlin,7379
+Language,Want to work with,PHP,5745
+Language,Want to work with,PowerShell,4287
+Language,Want to work with,Swift,3877
+Language,Want to work with,Dart,3709
+Language,Want to work with,Zig,3688
+Language,Want to work with,Lua,3322
+Language,Want to work with,Assembly,3007
+Language,Want to work with,Elixir,2895
+Language,Want to work with,Ruby,2774
+Language,Want to work with,Haskell,2221
+Language,Want to work with,R,2177
+Language,Want to work with,Scala,1790
+Language,Want to work with,GDScript,1667
+Language,Want to work with,Clojure,1331
+Language,Want to work with,F#,1272
+Language,Want to work with,Julia,1263
+Language,Want to work with,Lisp,1255
+Language,Want to work with,Erlang,1137
+Language,Want to work with,OCaml,1080
+Language,Want to work with,MicroPython,1039
+Language,Want to work with,Visual Basic (.Net),962
+Language,Want to work with,Solidity,957
+Language,Want to work with,MATLAB,945
+Language,Want to work with,Groovy,849
+Language,Want to work with,Perl,794
+Language,Want to work with,VBA,723
+Language,Want to work with,Objective-C,686
+Language,Want to work with,Delphi,594
+Language,Want to work with,Ada,558
+Language,Want to work with,Nim,499
+Language,Want to work with,Fortran,487
+Language,Want to work with,Crystal,407
+Language,Want to work with,Cobol,399
+Language,Want to work with,Prolog,396
+Language,Want to work with,Apex,389
+Language,Want to work with,Zephyr,248
+Language,Worked with,JavaScript,37492
+Language,Worked with,HTML/CSS,31816
+Language,Worked with,Python,30719
+Language,Worked with,SQL,30682
+Language,Worked with,TypeScript,23150
+Language,Worked with,Bash/Shell (all shells),20412
+Language,Worked with,Java,18239
+Language,Worked with,C#,16318
+Language,Worked with,C++,13827
+Language,Worked with,C,12184
+Language,Worked with,PHP,10951
+Language,Worked with,PowerShell,8328
+Language,Worked with,Go,8103
+Language,Worked with,Rust,7559
+Language,Worked with,Kotlin,5665
+Language,Worked with,Lua,3728
+Language,Worked with,Dart,3594
+Language,Worked with,Assembly,3233
+Language,Worked with,Ruby,3147
+Language,Worked with,Swift,2829
+Language,Worked with,R,2595
+Language,Worked with,Visual Basic (.Net),2499
+Language,Worked with,MATLAB,2378
+Language,Worked with,VBA,2248
+Language,Worked with,Groovy,2004
+Language,Worked with,Scala,1547
+Language,Worked with,Perl,1482
+Language,Worked with,GDScript,1402
+Language,Worked with,Objective-C,1283
+Language,Worked with,Elixir,1243
+Language,Worked with,Haskell,1193
+Language,Worked with,Delphi,1073
+Language,Worked with,MicroPython,942
+Language,Worked with,Lisp,889
+Language,Worked with,Clojure,737
+Language,Worked with,Julia,684
+Language,Worked with,Zig,667
+Language,Worked with,Fortran,665
+Language,Worked with,Solidity,644
+Language,Worked with,Ada,542
+Language,Worked with,Erlang,522
+Language,Worked with,F#,512
+Language,Worked with,Apex,502
+Language,Worked with,Prolog,486
+Language,Worked with,OCaml,458
+Language,Worked with,Cobol,413
+Language,Worked with,Crystal,253
+Language,Worked with,Nim,210
+Language,Worked with,Zephyr,184
+Platform,Want to work with,Amazon Web Services (AWS),18040
+Platform,Want to work with,Microsoft Azure,10304
+Platform,Want to work with,Google Cloud,9772
+Platform,Want to work with,Cloudflare,6881
+Platform,Want to work with,Firebase,4952
+Platform,Want to work with,Vercel,4614
+Platform,Want to work with,Digital Ocean,4507
+Platform,Want to work with,Hetzner,2460
+Platform,Want to work with,Supabase,2287
+Platform,Want to work with,Netlify,2217
+Platform,Want to work with,Fly.io,1686
+Platform,Want to work with,Heroku,1666
+Platform,Want to work with,VMware,1606
+Platform,Want to work with,"Linode, now Akamai",1470
+Platform,Want to work with,Oracle Cloud Infrastructure (OCI),1168
+Platform,Want to work with,Databricks,1152
+Platform,Want to work with,Managed Hosting,1070
+Platform,Want to work with,OVH,1038
+Platform,Want to work with,OpenShift,1012
+Platform,Want to work with,Render,940
+Platform,Want to work with,OpenStack,853
+Platform,Want to work with,PythonAnywhere,786
+Platform,Want to work with,Vultr,644
+Platform,Want to work with,IBM Cloud Or Watson,528
+Platform,Want to work with,Alibaba Cloud,525
+Platform,Want to work with,Scaleway,369
+Platform,Want to work with,Colocation,344
+Platform,Worked with,Amazon Web Services (AWS),22191
+Platform,Worked with,Microsoft Azure,12850
+Platform,Worked with,Google Cloud,11605
+Platform,Worked with,Cloudflare,6974
+Platform,Worked with,Firebase,6443
+Platform,Worked with,Vercel,5491
+Platform,Worked with,Digital Ocean,5409
+Platform,Worked with,Heroku,3798
+Platform,Worked with,Netlify,3238
+Platform,Worked with,VMware,3043
+Platform,Worked with,Hetzner,2301
+Platform,Worked with,Supabase,1767
+Platform,Worked with,"Linode, now Akamai",1425
+Platform,Worked with,OVH,1397
+Platform,Worked with,Managed Hosting,1386
+Platform,Worked with,Oracle Cloud Infrastructure (OCI),1332
+Platform,Worked with,Render,1305
+Platform,Worked with,Fly.io,1189
+Platform,Worked with,OpenShift,1120
+Platform,Worked with,Databricks,918
+Platform,Worked with,PythonAnywhere,892
+Platform,Worked with,Vultr,798
+Platform,Worked with,OpenStack,716
+Platform,Worked with,Alibaba Cloud,548
+Platform,Worked with,IBM Cloud Or Watson,506
+Platform,Worked with,Scaleway,396
+Platform,Worked with,Colocation,307
+Web framework,Want to work with,React,15404
+Web framework,Want to work with,Node.js,14735
+Web framework,Want to work with,Next.js,8507
+Web framework,Want to work with,Vue.js,7604
+Web framework,Want to work with,ASP.NET CORE,6905
+Web framework,Want to work with,Angular,6364
+Web framework,Want to work with,Express,5616
+Web framework,Want to work with,Svelte,5374
+Web framework,Want to work with,Spring Boot,5068
+Web framework,Want to work with,Django,4973
+Web framework,Want to work with,FastAPI,4914
+Web framework,Want to work with,jQuery,4233
+Web framework,Want to work with,Htmx,4201
+Web framework,Want to work with,Flask,3994
+Web framework,Want to work with,ASP.NET,3246
+Web framework,Want to work with,Laravel,3103
+Web framework,Want to work with,NestJS,3055
+Web framework,Want to work with,Blazor,2971
+Web framework,Want to work with,WordPress,2516
+Web framework,Want to work with,Ruby on Rails,2301
+Web framework,Want to work with,Astro,2271
+Web framework,Want to work with,Nuxt.js,2208
+Web framework,Want to work with,Deno,1951
+Web framework,Want to work with,AngularJS,1835
+Web framework,Want to work with,Solid.js,1684
+Web framework,Want to work with,Phoenix,1586
+Web framework,Want to work with,Remix,1294
+Web framework,Want to work with,Symfony,1153
+Web framework,Want to work with,Fastify,1127
+Web framework,Want to work with,Strapi,692
+Web framework,Want to work with,Elm,614
+Web framework,Want to work with,Gatsby,465
+Web framework,Want to work with,Drupal,418
+Web framework,Want to work with,CodeIgniter,349
+Web framework,Want to work with,Play Framework,282
+Web framework,Want to work with,Yii 2,244
+Web framework,Worked with,Node.js,19772
+Web framework,Worked with,React,19167
+Web framework,Worked with,jQuery,10381
+Web framework,Worked with,Next.js,8681
+Web framework,Worked with,Express,8614
+Web framework,Worked with,Angular,8306
+Web framework,Worked with,ASP.NET CORE,8187
+Web framework,Worked with,Vue.js,7483
+Web framework,Worked with,ASP.NET,6265
+Web framework,Worked with,Flask,6245
+Web framework,Worked with,Spring Boot,6165
+Web framework,Worked with,Django,5835
+Web framework,Worked with,WordPress,5711
+Web framework,Worked with,FastAPI,4800
+Web framework,Worked with,Laravel,3834
+Web framework,Worked with,AngularJS,3292
+Web framework,Worked with,Svelte,3146
+Web framework,Worked with,NestJS,2832
+Web framework,Worked with,Blazor,2378
+Web framework,Worked with,Ruby on Rails,2294
+Web framework,Worked with,Nuxt.js,1753
+Web framework,Worked with,Htmx,1591
+Web framework,Worked with,Symfony,1531
+Web framework,Worked with,Astro,1462
+Web framework,Worked with,Fastify,1070
+Web framework,Worked with,Deno,943
+Web framework,Worked with,Phoenix,930
+Web framework,Worked with,Drupal,920
+Web framework,Worked with,Strapi,815
+Web framework,Worked with,CodeIgniter,812
+Web framework,Worked with,Gatsby,758
+Web framework,Worked with,Remix,757
+Web framework,Worked with,Solid.js,590
+Web framework,Worked with,Yii 2,454
+Web framework,Worked with,Play Framework,387
+Web framework,Worked with,Elm,309
